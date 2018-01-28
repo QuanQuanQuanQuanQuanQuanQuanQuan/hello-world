@@ -12,3 +12,5 @@ hello3 from the hello directory
 hello4 from the hello2 directory
 
 hell5 from hello dir
+hell6 from hello dir
+
