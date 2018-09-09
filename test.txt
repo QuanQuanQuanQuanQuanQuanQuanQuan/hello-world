@@ -3,3 +3,4 @@ third line
 add 11
 add new line of 4
 add new line of 5
+add local line of 6
