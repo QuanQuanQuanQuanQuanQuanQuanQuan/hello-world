@@ -19,3 +19,5 @@ remote 16
 remote 17
 remote 18
 remote 19
+local 22
+local 23
