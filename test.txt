@@ -1,5 +1,5 @@
 second line
-third line
+
 add 11
 add new line of 4
 add new line of 5
@@ -19,5 +19,6 @@ remote 16
 remote 17
 remote 18
 remote 19
+add new local 22
 local 22
 local 23
