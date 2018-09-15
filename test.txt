@@ -1,25 +1,6 @@
-second line
-add new line 2
-add 11
-add new line of 4
-add new line of 5
-add remote line of 6
-remote 7
-remote 8
-remote 9
-remote 10
-local 20
-new local 20
-remote 11
-remote 12
-remote 13
-remote 14
-remote 15
-remote 15
-remote 16
-remote 17
 remote 18
 remote 19
 add new local 22
 local 22
 local 23
+add line 6 of 2pm
